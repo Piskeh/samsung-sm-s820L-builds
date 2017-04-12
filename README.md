@@ -1,6 +1,6 @@
 # Accessories for your Galaxy Core Prime US Version (SM-S820L).
 
-My phone is rooted, has TWRP, and a custom ROM courtesy of PsiloCelium on NeedRom.com 
+My phone is rooted, has TWRP, and a custom ROM courtesy of Psilocelium on NeedRom.com 
 
 http://www.needrom.com/author/psilocelium/
 
